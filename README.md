@@ -7,12 +7,6 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 🎮 Atualmente aprendendo Kotlin;
 - 🎧 Focando em concursos e oportunidades no exterior;
 - 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/
-     width="400"
-     height="341">
-
    
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelladuartecb/)
