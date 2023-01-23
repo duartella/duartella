@@ -13,7 +13,7 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=duartella&theme=blue-green)
-![Other](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green)
 
 <picture>
 <source 
