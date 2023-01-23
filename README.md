@@ -8,6 +8,8 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 🎧 Focando em concursos e oportunidades no exterior;
 - 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
+![Separador](https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif)
+
 ### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelladuartecb/)
