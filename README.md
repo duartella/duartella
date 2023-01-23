@@ -29,5 +29,5 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 
 ### Desenvolvimento
 
-![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) ![Separador](https://24.media.tumblr.com/tumblr_mcm1ec68fN1qfqgb9o1_1280.gif)
+![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) ![Separador](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
 
