@@ -6,7 +6,7 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 💻 Estudando desenvolvimento de aplicações android;
 - 🎮 Atualmente aprendendo Kotlin;
 - 🐈‍⬛ Focando em concursos e oportunidades no exterior;
-- 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
+- 📓 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
 ### Redes Sociais
 
