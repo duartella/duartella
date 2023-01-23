@@ -1,6 +1,5 @@
 # Olá, tudo bem? 👋
 
-<!--
 Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 
 
