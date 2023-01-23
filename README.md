@@ -16,8 +16,7 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Desenvolvimento
+### Desenvolvimento
 
 ![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=duartella&theme=blue-green)
