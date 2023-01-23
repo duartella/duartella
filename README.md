@@ -1,6 +1,6 @@
 # Olá, tudo bem? 👋
 
-Meu nome é **Rafaella Duarte** e eu sou estudante autodidata de programação!
+Meu nome é **Rafaella Duarte**, tenho 19 anos e eu sou estudante autodidata de programação!
 
 
 - 💻 Estudando desenvolvimento de aplicações android;
