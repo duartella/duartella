@@ -9,7 +9,8 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
 
-!image <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
 
