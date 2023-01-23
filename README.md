@@ -8,4 +8,4 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 🎧 Focando em concursos e oportunidades no exterior;
 - 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
-(https://github-readme-stats.vercel.app/api?username=duartella)](https://github.com/duartella/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=duartella)](https://github.com/duartella/github-readme-stats
