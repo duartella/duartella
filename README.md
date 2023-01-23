@@ -8,8 +8,6 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 🎧 Focando em concursos e oportunidades no exterior;
 - 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
-![Separador](https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-linha-10.gif)
-
 ### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelladuartecb/)
@@ -31,5 +29,5 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 
 ### Desenvolvimento
 
-![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green)
+![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) ![Separador](https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-linha-10.gif)
 
