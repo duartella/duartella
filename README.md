@@ -9,6 +9,8 @@ Meu nome é Rafaella Duarte e eu sou estudante autodidata de programação!
 - 🎬 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
 
+![gmail]([BadgeURLAqui](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&theme=dark"
