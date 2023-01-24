@@ -29,5 +29,5 @@ Meu nome é **Rafaella Duarte**, tenho 19 anos e eu sou estudante autodidata de 
 
 ### Desenvolvimento
 
-![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) <img src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="200">
+![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) <img src="https://i.gifer.com/origin/57/57d41c88593caedb20bb41338421c40e.gif" width="200">
 
