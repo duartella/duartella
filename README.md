@@ -5,7 +5,7 @@ Meu nome é **Rafaella Duarte**, tenho 19 anos e eu sou estudante autodidata de 
 
 - 👾 Estudando desenvolvimento de aplicações android;
 - 🌆 Atualmente aprendendo Kotlin;
-- 🎡 Focando em concursos e oportunidades no exterior;
+- 🏩 Focando em concursos e oportunidades no exterior;
 - 🌌 Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
 
 ### Redes Sociais
