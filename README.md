@@ -3,11 +3,8 @@
 My name is **Rafaella Duarte**, I am 19 years old and I am a Software Engineer student!
 
 ✧ Studying android application development;
-
 ✦ Currently learning Kotlin;
-
 ✧ Focusing on contests and opportunities abroad;
-
 ✦ Fun facts about me: I am a lover of art, books, astrology and technology.
 
 ### Redes Sociais
