@@ -1,15 +1,14 @@
-# Olá, tudo bem? 👋
+# Hello, how are you? 👋
 
-Meu nome é **Rafaella Duarte**, tenho 19 anos e eu sou estudante autodidata de programação!
+My name is **Rafaella Duarte**, I am 19 years old and I am a Software Engineer student!
 
+✧ Studying android application development;
 
-✧ Estudando desenvolvimento de aplicações android;
+✦ Currently learning Kotlin;
 
-✦ Atualmente aprendendo Kotlin;
+✧ Focusing on contests and opportunities abroad;
 
-✧ Focando em concursos e oportunidades no exterior;
-
-✦ Fatos curiosos sobre mim: Sou uma amante de arte, livros, astrologia e tecnologia.
+✦ Fun facts about me: I am a lover of art, books, astrology and technology.
 
 ### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me.duartella/)
