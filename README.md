@@ -1,6 +1,6 @@
 # Hello, how are you? 👋
 
-My name is **Rafaella Duarte**, I am 19 years old and I am a Software Engineer student!
+My name is **Rafaella Duarte**, I am 19 years old and I am a Software Engineering student!
 
 ✧ Studying android application development;
 
