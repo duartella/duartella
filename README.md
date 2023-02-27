@@ -31,6 +31,6 @@ My name is **Rafaella Duarte**, I am 19 years old and I am a Software Engineerin
 
 ### Development
 
-![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) <img src="https://66.media.tumblr.com/tumblr_mc23hpFLFk1rfjowdo1_500.gif" width="200">
+![Other](https://github-readme-stats.vercel.app/api?username=duartella&theme=blue-green) <img src="https://media2.giphy.com/media/nDmTGama5e9ZH6mlT3/200w.gif?cid=6c09b952q969phgp05ejlilzopaozcy2jj3y0xkdwu7v9wg2&rid=200w.gif&ct=g" width="200">
 
 
