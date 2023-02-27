@@ -1,4 +1,4 @@
-# Hello, how are you? 👋
+# Hello, how are you? 
 
 My name is **Rafaella Duarte**, I am 19 years old and I am a Software Engineering student!
 
