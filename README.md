@@ -3,21 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duartella&label=Profile%20views&color=0e75b6&style=flat" alt="duartella" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duartella" alt="duartella" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/duartella" target="blank"><img src="https://img.shields.io/twitter/follow/duartella?logo=twitter&style=for-the-badge" alt="duartella" /></a> </p>
-
 - 🔭 I’m currently working on **a pomodoro app**
 
-- 🌱 I’m currently learning **Android Development with Kotlin**
+- 🌱 I’m currently learning **android development with kotlin**
 
 - 👯 I am collaborating as **a volunteer tutor at the college**
 
 - 📫 How to reach me **https://duartella.carrd.co**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/duartella/](https://www.linkedin.com/in/duartella/)
-
-- ⚡ Fun fact **I love helping and studying with my college buddies and I'm a naturally curious person who is always learning new things**
+- ⚡ Fun fact **I love helping and studying with my college buddies.
+I'm a naturally curious person who is always learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duartella&show_icons=true&locale=en&layout=compact" alt="duartella" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&locale=en" alt="duartella" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duartella&" alt="duartella" /></p>
