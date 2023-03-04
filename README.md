@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/duartella" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/duartella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="duartella" height="30" width="40" /></a>
 <a href="https://instagram.com/duartellaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duartellaz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/duartella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duartella" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/duartella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="duartella" a>
 </p>
 
 <h3 align="left"> 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 </h3>
