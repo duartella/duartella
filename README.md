@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafaella Duarte</h1>
-<h3 align="center">I'm brazilian software engineering student, who codes sometimes!</h3>
+I'm brazilian software engineering student, who codes sometimes!</h3>
 
 - 🔭 I’m currently working on **a pomodoro app**
 
