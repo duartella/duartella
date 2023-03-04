@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm 𝐑𝐚𝐟𝐚𝐞𝐥𝐥𝐚 𝐃𝐮𝐚𝐫𝐭𝐞!  ◡̈ </h1>
-<h3 align="left"> 【 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 】</h3>
 
-<img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_256.gif" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
+
+<h3 align="left"> 【 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 】</h3> <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_256.gif" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
 
 ‧₊˚๑✧ I’m currently working on **a pomodoro app**;
 
