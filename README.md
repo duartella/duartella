@@ -1,6 +1,8 @@
 <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_256.gif" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
 <h1 align="center"> Hi, I'm 𝐑𝐚𝐟𝐚𝐞𝐥𝐥𝐚 𝐃𝐮𝐚𝐫𝐭𝐞!  ◡̈ </h1>
 
+─ ─ ─────────────────────────────────────────────────────────────╮
+
 <h3 align="left"> 【 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 】</h3>
 
 ‧₊˚๑✧ I’m currently working on **a pomodoro app**;
@@ -9,7 +11,6 @@
 
 ‧₊˚๑✧ I am collaborating as **a volunteer tutor at the college**.
 
-![line](https://pa1.narvii.com/6555/7c4eb14b39e00bcbd9db399cbb35a5b7aa1895ab_hq.gif)
 <h3 align="left">【 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 】</h3>
 <p align="left">
 <a href="https://twitter.com/duartella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duartella" height="30" width="40" /></a>
