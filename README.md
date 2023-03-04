@@ -22,4 +22,4 @@
 
 <h3 align="left">【 𝐆𝐢𝐭𝐇𝐮𝐛 𝐬𝐭𝐚𝐭𝐬 】</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&theme=transparent) <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34d21930-e8fc-45cf-b941-60bccb860832/d9dp5g0-984536d5-45b4-49c1-a8c5-9df9ec31567f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0ZDIxOTMwLWU4ZmMtNDVjZi1iOTQxLTYwYmNjYjg2MDgzMlwvZDlkcDVnMC05ODQ1MzZkNS00NWI0LTQ5YzEtYThjNS05ZGY5ZWMzMTU2N2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kUHLqqz4V2xizSIuYMHorLNXPUSFB45PhjgCvEHqzNM" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&theme=transparent) <img src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
