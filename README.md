@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, ◡̈ I'm Rafaella Duarte! </h1>
+<h1 align="center"> Hi, I'm Rafaella Duarte! ◡̈ </h1>
 <h3 align="left"> 【 About me 】</h3>
 
 ‧₊˚๑✧ I’m currently working on **a pomodoro app**;
