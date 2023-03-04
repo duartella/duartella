@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rafaella Duarte</h1>
 
-- 🔭 I’m currently working on **a pomodoro app**
+- 🔭 I’m currently working on **a pomodoro app**;
 
-- 🌱 I’m currently learning **android development with kotlin**
+- 🌱 I’m currently learning **android development with kotlin**;
 
-- 👯 I am collaborating as **a volunteer tutor at the college**
+- 👯 I am collaborating as **a volunteer tutor at the college**;
 
-- ⚡ Fun fact **I love helping and studying with my college buddies and learn new things.**
+- ⚡ Fun fact **I love helping and studying with my college buddies and learn new things**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
