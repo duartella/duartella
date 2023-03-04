@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafaella Duarte</h1>
 <h3 align="center">I'm a software engineering student, passionate about technology and programming!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duartella&label=Profile%20views&color=0e75b6&style=flat" alt="duartella" /> </p>
-
 - 🔭 I’m currently working on **a pomodoro app**
 
 - 🌱 I’m currently learning **android development with kotlin**
