@@ -22,4 +22,4 @@
 
 <h3 align="left">【 𝐆𝐢𝐭𝐇𝐮𝐛 𝐬𝐭𝐚𝐭𝐬 】</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&theme=transparent)<img src="https://camo.githubusercontent.com/a74864f3a6963bd190ba7d730dfe86a16179b5ccd1f6dcee63546add7102f7d6/68747470733a2f2f7777772e74696772656c6170696e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f4c6170696e655f53657175656e63652e676966" alt= “” width="50" height="50">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&theme=transparent)<img src="https://camo.githubusercontent.com/a74864f3a6963bd190ba7d730dfe86a16179b5ccd1f6dcee63546add7102f7d6/68747470733a2f2f7777772e74696772656c6170696e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f4c6170696e655f53657175656e63652e676966" alt= “” width="200" height="200">
