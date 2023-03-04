@@ -7,10 +7,7 @@
 
 - 👯 I am collaborating as **a volunteer tutor at the college**
 
-- 📫 How to reach me **https://duartella.carrd.co**
-
-- ⚡ Fun fact **I love helping and studying with my college buddies.
-I'm a naturally curious person who is always learning new things**
+- ⚡ Fun fact **I love helping and studying with my college buddies and learn new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
