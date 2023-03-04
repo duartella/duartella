@@ -9,7 +9,7 @@
 
 ‧₊˚๑✧ I am collaborating as **a volunteer tutor at the college**.
 
-
+![line](https://thumbs.gfycat.com/GrayInsecureAmoeba-max-1mb.gif)
 <h3 align="left">【 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 】</h3>
 <p align="left">
 <a href="https://twitter.com/duartella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duartella" height="30" width="40" /></a>
