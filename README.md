@@ -1,5 +1,4 @@
-<h2 align="left"> Hi, I'm 𝐑𝐚𝐟𝐚𝐞𝐥𝐥𝐚 𝐃𝐮𝐚𝐫𝐭𝐞!  ◡̈ </h2>
-
+<h1 align="left"> Hi, I'm 𝐑𝐚𝐟𝐚𝐞𝐥𝐥𝐚 𝐃𝐮𝐚𝐫𝐭𝐞!  ◡̈ </h1>
 
 <h3 align="left"> 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 </h3>
 
