@@ -23,3 +23,4 @@
 <h3 align="left">【 𝐆𝐢𝐭𝐇𝐮𝐛 𝐬𝐭𝐚𝐭𝐬 】</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartella&show_icons=true&theme=transparent) <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_256.gif" alt="MarineGEO circle logo" style="height: 250px; width:250px;"/>
+![Anime girl](https://media4.giphy.com/media/oQgIhA9CG8lUY/giphy.gif)
