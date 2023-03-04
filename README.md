@@ -7,7 +7,7 @@
 
 ‧₊˚๑✧ I am collaborating as **a volunteer tutor at the college**;
 
-‧₊˚๑✧ Something about me: **I love helping and studying with my college buddies and learn new things**.
+‧₊˚๑✧ Something about me: **I love study with my college buddies and learn new things**.
 
 <h3 align="left">【 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 】</h3>
 <p align="left">
