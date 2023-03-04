@@ -6,13 +6,9 @@
 
 ‧₊˚๑✧ I’m currently working on **a pomodoro app**;
 
-‧₊˚๑✧ I’m currently learning **android development
+‧₊˚๑✧ I’m currently learning **android development with kotlin**;
 
-with kotlin**;
-
-‧₊˚๑✧ I am collaborating as **a volunteer tutor at
-
-the college**.
+‧₊˚๑✧ I am collaborating as **a volunteer tutor at the college**.
 
 <h3 align="left"> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 </h3>
 
