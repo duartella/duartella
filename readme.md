@@ -1,14 +1,14 @@
 import Desenvolvedor from "duartlla"
 
 class SobreMim : Desenvolvedor() {
-  var Nome = "Rafaella Duarte"
-  var Cursando = "Engenharia de Software"
-  var Estudando = "Desenvolvimento Android Nativo"
+    val nome = "Rafaella Duarte"
+    val curso = "Engenharia de Software"
+    val focoDeEstudo = "Desenvolvimento Android Nativo"
 }
 
 class Habilidades : Desenvolvedor() {
-  var Linguagens = listOf("Kotlin")
-  var Bibliotecas = listOf("Jetpack Compose")
-  var Frameworks = listOf("Gradle")
-  var Ferramentas = listOf("Android Studio", "Firebase")
+    val linguagens = listOf("Kotlin")
+    val bibliotecas = listOf("Jetpack Compose")
+    val frameworks = listOf("Gradle")
+    val ferramentas = listOf("Android Studio", "Firebase")
 }
