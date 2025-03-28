@@ -1,5 +1,5 @@
 ```kotlin
-import Desenvolvedor from "duartlla"
+import Desenvolvedor from "duartella"
 
 class SobreMim : Desenvolvedor() {
     val nome = "Rafaella Duarte"
